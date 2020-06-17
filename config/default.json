@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:admin@social.lprar.mongodb.net/social?retryWrites=true&w=majority",
+  "jwtSecret": "Christertoken"
+}
